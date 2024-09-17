@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome everyone !
+
+###Actual activity
+My name is Benjamin and I'm currently doing a bechelor in cybersecurity at the HEIG-VD in Switzerland.
+
+###Coding knowledge
+![image](https://github.com/user-attachments/assets/d37622f5-8e0a-40f6-a549-fc65c7e17a59)
+![image](https://github.com/user-attachments/assets/25f5adb7-1ff5-46fc-8df1-9da4e138faa8)
 
 <!--
 **BKo1706/BKo1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
