@@ -1,7 +1,7 @@
 ## Welcome everyone !
 
 ###Actual activity
-My name is Benjamin and I'm currently doing a bechelor in cybersecurity at the HEIG-VD in Switzerland.
+My name is Benjamin and I'm currently doing a bechelor in cybersecurity at the HEIG-VD in Switzerland. This is my first try of making a readme 
 
 ###Coding knowledge
 ![image](https://github.com/user-attachments/assets/d37622f5-8e0a-40f6-a549-fc65c7e17a59)
