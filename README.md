@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
+<h1 align="center">Hi 👋, I'm Benjamin !</h1>
 
 <h3 align="left">What about me ?</h3>
 <p align="left">I'm studying cybersecurity at the HEIG-VD in Switzerland
